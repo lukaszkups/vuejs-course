@@ -1,0 +1,1 @@
+// Could hold here value Vuex code but it's too short to exclude it into separate file
